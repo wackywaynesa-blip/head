@@ -3,7 +3,7 @@
    Keep this file in the same GitHub Pages folder as index.html. */
 'use strict';
 
-const CACHE_NAME = 'telemetry-dashboard-v03-r1';
+const CACHE_NAME = 'telemetry-dashboard-v04-r1';
 const APP_FILES = [
   './',
   './index.html',
